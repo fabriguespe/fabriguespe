@@ -2,6 +2,8 @@ Hi, I'm Fabri 🫡
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
+
 🧳 I'm DevRel Engineer @ [**XMTP**](https://docs.xmtp.org/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
