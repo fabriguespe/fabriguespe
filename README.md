@@ -1,8 +1,10 @@
 Hi, I'm Fabri 🫡
 
-I'm the Develoeer Relations Engineer @ **XMTP**. I joined XMTP after being the first Developer Relations at Lens Protocol.
+🧳 I'm the Develoeer Relations Engineer @ **XMTP**. I joined XMTP after being the first Developer Relations at Lens Protocol.
 
-I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. If I'm not working, I'm likely traveling or having fun with friends and family.
+💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
+
+🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
