@@ -14,6 +14,7 @@ I like software ecosystems & startups. I sometimes also [blog](https://medium.co
 
 ### Writings
 
+- [Introducing the Refreshed XMTP Developer Documentation]([https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3))
 - [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 - [How to send remote attachments with XMTP & Thirdweb SDKs](https://xmtp.org/blog/thirdbweb-wallet-remote-attachments)
 - [Building a decentralized blog with Lens, Vue & IPFS — Part 1](https://medium.com/@fabriguespe/building-a-decentralized-blog-in-lens-a95c450b1367)
