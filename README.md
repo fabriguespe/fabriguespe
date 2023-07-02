@@ -8,6 +8,8 @@ Hi, I'm Fabri 🫡
 
 🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
 
+[Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
+
 ### Projects
 
 - I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Focused on [documentation](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3) and removing friction for developers.
