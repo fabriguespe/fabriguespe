@@ -29,6 +29,7 @@ I like software ecosystems. ⚡️ DevRel @xmtp_ ⚡️. I sometimes also [blog]
 
 ### Full-Stack Development
 
+- [XMTP Quickstart NextJS](https://github.com/fabriguespe/xmtp-quickstart-nextjs) – XMTP Quickstart (ReactJS, XMTP, ThirdwebSDK)
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
 - [ronibot](https://github.com/fabriguespe/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
