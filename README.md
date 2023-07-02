@@ -2,7 +2,7 @@ Hi, I'm Fabri 🫡
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
-🧳 I'm the Develoeer Relations Engineer @ **XMTP**. I joined XMTP after being the first Developer Relations at Lens Protocol.
+🧳 I'm the Develoeer Relations Engineer @ **XMTP**. I joined XMTP after being the first Developer Relations at Lens Protocol. Previously i Co-Founded [Linkcard](https://linkcard.app/).
 
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
