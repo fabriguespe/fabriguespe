@@ -1,8 +1,11 @@
 Hi, I'm Fabri 🫡
 
-I like software ecosystems. ⚡️ DevRel @xmtp_ ⚡️. I sometimes also [blog](https://medium.com/@fabriguespe).
+I like software ecosystems. ⚡️ DevRel @xmtp_ ⚡️. 
 
-[Twitter](https://twitter.com/fabriguespe/) | [LinkedIn](https://www.linkedin.com/in/fabriguespe/) | [Instagram](https://www.instagram.com/)
+I angel invest in early-stage startups that I'm passionate about. If I'm not working, I'm likely having fun with friends and family.
+
+[twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe).
+
 
 ### Projects
 
