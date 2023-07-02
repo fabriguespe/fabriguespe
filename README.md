@@ -24,7 +24,6 @@ Hi, I'm Fabri 🫡
 - [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 - [How to send remote attachments with XMTP & Thirdweb SDKs](https://xmtp.org/blog/thirdbweb-wallet-remote-attachments)
 - [Building a decentralized blog with Lens, Vue & IPFS — Part 1](https://medium.com/@fabriguespe/building-a-decentralized-blog-in-lens-a95c450b1367)
-- [Building a decentralized blog with Lens, Vue & XMTP — Part 2](https://medium.com/@fabriguespe/building-a-decentralized-blog-with-lens-vue-xmtp-part-2-f1ae6c8bda84)
 - [Optimistic UX](https://medium.com/me/stats/post/3dac0a0ff098)
 - [Web3 Social Front-ends: A Glimpse into the Future](https://medium.com/@fabriguespe/web3-social-front-ends-a-glimpse-into-the-future-51466fd49727)
 - [On breaking web2 networks](https://medium.com/@fabriguespe/on-breaking-web2-networks-9f6301804ad2)
