@@ -1,5 +1,7 @@
 Hi, I'm Fabri 🫡
 
+I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Focused on [documentation](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3) and removing friction for developers.
+
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
 🧳 I'm the DevRel Engineer [**XMTP**](https://docs.xmtp.org/). I joined XMTP after being as the first DevRel at [Lens Protocol](https://www.lens.xyz/). Previously I Co-Founded [Linkcard](https://linkcard.app/).
