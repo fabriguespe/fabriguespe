@@ -1,5 +1,5 @@
 
-Hi, I'm Fabri <img width="20" class="imgg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
+Hi, I'm Fabri <img width="20" className="imgg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
 
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
