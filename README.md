@@ -1,4 +1,4 @@
-<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
+<img width="30" src="rubik.png"/>
 
 Hi, I'm Fabri 🫡 
 
