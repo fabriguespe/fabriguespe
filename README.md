@@ -15,7 +15,7 @@ Hi, I'm Fabri 🫡
 
 ### Projects
 
-- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Focused on [documentation](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3) and removing friction for developers.
+- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Focused on [documentation](https://twitter.com/fabriguespe/status/1674819956297592832) and removing friction for developers.
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - Ronimate Play-to-Earn Guild. I created a gaming guild in Venezuela and developed a [Discord Bot](https://github.com/fabriguespe/ronibot) to manage its activities. At its peak, it had 500 members [and a great community](https://twitter.com/fabriguespe/status/1479450280907448320).
 -  I like software ecosystems and to angel invest in early-stage startups that I'm passionate about.
