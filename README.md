@@ -1,7 +1,3 @@
-### About Me
-
-I'm Fabri, a DevRel Engineer currently working at [**XMTP**](https://docs.xmtp.org/). I have a rich history of fostering developer ecosystems, co-founding startups, and angel investing in early-stage companies. When I'm not working, you'll likely find me traveling or spending quality time with friends and family. I'm also a speed cuber, able to solve the Rubik's Cube in under 30 seconds!
-
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
 
 Hi, I'm Fabri 🫡
