@@ -1,6 +1,5 @@
 
-Hi, I'm Fabri <img width="20" className="imgg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
-
+Hi, I'm Fabri 🫡
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
@@ -10,6 +9,9 @@ Hi, I'm Fabri <img width="20" className="imgg" src="https://upload.wikimedia.org
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
 🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
+
+ <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
+I am a speed cuber, able to solve the Rubik's Cube on average in under 30 seconds, with an official record of 23 seconds. I have made two fun videos: [video1](https://youtube.com/shorts/4Mg5uUTI07Q) & [video2](https://youtube.com/shorts/oFs7KQm0h-8).
 
 [Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
@@ -55,3 +57,4 @@ Hi, I'm Fabri <img width="20" className="imgg" src="https://upload.wikimedia.org
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631060239146442752%7Ctwgr%5E54ead645c29c23886c121343a8e0a5070e9453e4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2FFabrizio-Guespe-51e33dd217354582a52f656c504a6fe0). Denver, Colorado
 - Web3 Social. [Oxford University.](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/). Lisbon, Portugal
+
