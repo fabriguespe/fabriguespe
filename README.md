@@ -1,6 +1,6 @@
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
 
-Hi, I'm Fabri 🫡
+Hi, I'm Fabri 🫡 [Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
@@ -10,8 +10,6 @@ Hi, I'm Fabri 🫡
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
 🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
-
-[Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
 ### Projects
 
