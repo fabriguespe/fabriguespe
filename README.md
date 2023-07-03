@@ -1,3 +1,4 @@
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
 
 Hi, I'm Fabri 🫡
 
@@ -9,9 +10,6 @@ Hi, I'm Fabri 🫡
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
 🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
-
- <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
-I am a speed cuber, able to solve the Rubik's Cube on average in under 30 seconds, with an official record of 23 seconds. I have made two fun videos: [video1](https://youtube.com/shorts/4Mg5uUTI07Q) & [video2](https://youtube.com/shorts/oFs7KQm0h-8).
 
 [Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
