@@ -1,9 +1,10 @@
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/1855px-Rubik%27s_cube_v3.svg.png"/>
 
-Hi, I'm Fabri 🫡 [Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
+Hi, I'm Fabri 🫡 
 
 [twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
 
+[Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
 🧳 I'm DevRel Engineer @ [XMTP](https://docs.xmtp.org/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 
