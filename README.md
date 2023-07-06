@@ -8,7 +8,7 @@ Hi, I'm Fabri 🫡
 
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
-🎉 If I'm not working, I'm likely traveling or having fun with friends and family.
+🎉 If I'm not working, I'm likely building the [Rubik's cube](https://twitter.com/fabriguespe/status/1677089304470859777) , traveling or having fun with friends and family.
 
 [Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
