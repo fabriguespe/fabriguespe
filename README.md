@@ -14,7 +14,7 @@ Hi, I'm Fabri 🫡
 
 ### Projects
 
-- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Currently working in [documentation](https://twitter.com/fabriguespe/status/1674819956297592832) and developer experience. We had a very successful [Series A](https://blog.xmtp.com/series-a/).
+- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP Labs](https://xmtp.org/) ⚡️. Currently working in [documentation](https://twitter.com/fabriguespe/status/1674819956297592832) and developer experience. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. We had a very successful [Series A](https://blog.xmtp.com/series-a/).
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - Ronimate Play-to-Earn Guild. I created a gaming guild in Venezuela and developed a [Discord Bot](https://github.com/fabriguespe/ronibot) to manage its activities. At its peak, it had 500 members [and a great community](https://twitter.com/fabriguespe/status/1479450280907448320).
 - I'm able to solve the Rubik's Cube on average in under 30 seconds, with an official record of 23 seconds. Check out some fun videos 🤣 [1](https://twitter.com/fabriguespe/status/1677089304470859777), [2](https://www.youtube.com/shorts/4Mg5uUTI07Q), [3](https://www.youtube.com/shorts/oFs7KQm0h-8),.
