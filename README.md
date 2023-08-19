@@ -2,7 +2,7 @@
 
 Hi, I'm Fabri 🫡 
 
-[twitter](https://twitter.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [instagram](https://www.instagram.com/) | [medium](https://medium.com/@fabriguespe)
+[𝕏](https://x.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [medium](https://medium.com/@fabriguespe)
 
 🧳 I'm DevRel Engineer @ [XMTP](https://docs.xmtp.org/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 
