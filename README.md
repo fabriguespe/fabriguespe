@@ -55,4 +55,4 @@ Hi, I'm Fabri 🫡
 
 ### **Contact me**
 [𝕏](https://x.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [medium](https://medium.com/@fabriguespe) | 
-[Message me on Converse](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)<img width="30" src="xmtp.svg"/>
+[Message me on Converse](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)<img width="15" src="xmtp.svg"/>
