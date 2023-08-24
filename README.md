@@ -55,4 +55,4 @@ Hi, I'm Fabri 🫡
 
 ### **Contact me**
 [𝕏](https://x.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [medium](https://medium.com/@fabriguespe) | 
-[Message me on Converse <img width="30" src="[https://raw.githubusercontent.com/xmtp/brand/74c2b3c7fe5d4c752973d722efa1c596f32c86e9/assets/x-mark-red.svg"](https://raw.githubusercontent.com/xmtp/brand/74c2b3c7fe5d4c752973d722efa1c596f32c86e9/assets/x-mark-red.svg)https://raw.githubusercontent.com/xmtp/brand/74c2b3c7fe5d4c752973d722efa1c596f32c86e9/assets/x-mark-red.svg"/>](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
+[Message me on Converse <img width="30" src="https://raw.githubusercontent.com/xmtp/brand/74c2b3c7fe5d4c752973d722efa1c596f32c86e9/assets/x-mark-red.svg"](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
