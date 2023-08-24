@@ -2,15 +2,12 @@
 
 Hi, I'm Fabri 🫡 
 
-[𝕏](https://x.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [medium](https://medium.com/@fabriguespe)
-
 🧳 I'm DevRel Engineer @ [XMTP](https://docs.xmtp.org/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 
 💛 I like software ecosystems and to angel invest in early-stage startups that I'm passionate about. 
 
 🎉 If I'm not working, I'm likely building the [Rubik's cube](https://twitter.com/fabriguespe/status/1677089304470859777) , traveling or having fun with friends and family.
 
-[Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
 
 ### Projects
 
@@ -54,3 +51,7 @@ Hi, I'm Fabri 🫡
 - Web3 Social. [Oxford University.](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/). Lisbon, Portugal
 
+
+
+[𝕏](https://x.com/fabriguespe/) | [linkedIn](https://www.linkedin.com/in/fabriguespe/) | [medium](https://medium.com/@fabriguespe) | 
+[Message me on Converse 💬](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
