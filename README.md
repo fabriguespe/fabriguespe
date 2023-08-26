@@ -1,4 +1,4 @@
-<img width="30" src="[rubik.png](https://github.com/fabriguespe/fabriguespe/blob/main/rubik.png)"/>
+<img width="30" src="https://github.com/fabriguespe/fabriguespe/blob/main/rubik.png"/>
 
 Hi, I'm Fabri 🫡 
 
