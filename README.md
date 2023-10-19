@@ -39,6 +39,7 @@ Hi, I'm Fabri 🫡
 
 ### **Events and Talks**
 
+- [DevRel University - The impact of DevRel in Product & Integrations](https://twitter.com/DevrelUni/status/1709979442364252253). Paris, France.
 - [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4). Paris, France.
 - [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1583809043759783936%7Ctwgr%5Ebc08c0a9bff3448ba6ca1d7c4bd0dbcc2c3949cd%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Ffabrizio%2FFabrizio-Guespe-a4778406cb4a4622bb542973ed48a8b5). London, UK
 - [Lens Workshop](https://twitter.com/michelleanmar/status/1578461480059834369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1578461480059834369%7Ctwgr%5E78901d628b395bce8c7aaa51d84e09bc9e35fabc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Ffabrizio%2FFabrizio-Guespe-51e33dd217354582a52f656c504a6fe0). Bogotá, Colombia
