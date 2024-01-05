@@ -29,7 +29,7 @@
 
 ### Full-Stack Development
 
-- [XMTP Docs](https://xmtp.org/docs/introduction)
+- [XMTP Docs](https://xmtp.org/docs/introduction) - Documenting XMTP protocol in all SDKs
 - [XMTP Prototypes](https://github.com/fabriguespe/xmtp-prototypes) - Experimenting with widgets, tutorials and buttons.
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
