@@ -40,6 +40,7 @@
 
 ### **Events and Talks**
 
+- [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
 - [DevRel University - The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253). Online
 - [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4). Paris, France.
 - [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1583809043759783936%7Ctwgr%5Ebc08c0a9bff3448ba6ca1d7c4bd0dbcc2c3949cd%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2Ffabrizio%2FFabrizio-Guespe-a4778406cb4a4622bb542973ed48a8b5). London, UK
@@ -50,7 +51,6 @@
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631060239146442752%7Ctwgr%5E54ead645c29c23886c121343a8e0a5070e9453e4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2FFabrizio-Guespe-51e33dd217354582a52f656c504a6fe0). Denver, Colorado
 - Web3 Social. [Oxford University.](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/). Lisbon, Portugal
-- [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
 
 
 
