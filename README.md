@@ -29,6 +29,7 @@
 
 ### Full-Stack Development
 
+- [XMTP Docs](https://xmtp.org/docs/introduction)
 - [XMTP Prototypes](https://github.com/fabriguespe/xmtp-prototypes) - Experimenting with widgets, tutorials and buttons.
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
@@ -49,6 +50,7 @@
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631060239146442752%7Ctwgr%5E54ead645c29c23886c121343a8e0a5070e9453e4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2FFabrizio-Guespe-51e33dd217354582a52f656c504a6fe0). Denver, Colorado
 - Web3 Social. [Oxford University.](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/). Lisbon, Portugal
+- [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
 
 
 
