@@ -39,6 +39,7 @@
 
 ### **Events and Talks**
 
+- [Introucing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s). Online. XMTP Dev Call
 - [Building Group Chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q). Brussels, Belgium.
 - [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
 - [DevRel University - The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253). Online
