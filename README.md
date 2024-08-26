@@ -29,8 +29,8 @@
 
 ### Full-Stack Development
 
-- [MessageKit](https://message-kit.vercel.app/) - Converse Mini app SDK for building bots in web3
-- [XMTP Docs](https://xmtp.org/docs/introduction) - Documenting XMTP protocol in all SDKs
+- [MessageKit](https://message-kit.vercel.app/) - Converse Mini app SDK for building bots in web3 [Typescript]
+- [XMTP Docs](https://xmtp.org/docs/introduction) - Documenting and building quickstarts for XMTP protocol in all SDKs. [React, Node, React Native, Swift, Kotlin]
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
 - [ronibot](https://github.com/fabriguespe/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
