@@ -29,6 +29,7 @@
 
 ### Full-Stack Development
 
+- [Cointoss](https://cointoss.xyz) - Group chat social precition market
 - [MessageKit](https://message-kit.vercel.app/) - Converse Mini app SDK for building bots in web3 [Typescript]
 - [XMTP Docs](https://xmtp.org/docs/introduction) - Documenting and building quickstarts for XMTP protocol in all SDKs. [React, Node, React Native, Swift, Kotlin]
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
