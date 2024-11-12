@@ -1,6 +1,4 @@
-<img width="30" src="https://github.com/fabriguespe/fabriguespe/blob/main/rubik.png"/>
-
-### Hi, I'm Fabri 🫡 
+### Hi, I'm Fabri 🫡
 
 - I'm DevRel Engineer @ [Ephemera](https://ephemerahq.com/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 - I like software ecosystems and angel investing in early-stage startups that I'm passionate about. 
